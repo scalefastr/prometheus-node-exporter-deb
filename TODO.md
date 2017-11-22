@@ -1,0 +1,2 @@
+- logs aren't written anywhere.. nor are they log rotated.
+- 
