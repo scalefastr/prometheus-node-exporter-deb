@@ -1,1 +1,1 @@
-https://www.scalefastr.io
+[Scalefastr](https://www.scalefastr.io)
